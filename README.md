@@ -4,7 +4,9 @@
   <tr>
     <td width="40%">
       <a href="https://charan-gurram.github.io/calculator" target="_blank">
-        <img src="https://github.com/charan-gurram/calculator/blob/main/Calculator.png?raw=true" width="100%" alt="Calculator Project Thumbnail" />
+        <img src="https://github.com/charan-gurram/calculator/blob/main/calculator.png?raw=true"
+             width="100%" height="150px" style="object-fit: cover; border-radius: 8px;" 
+             alt="Calculator Project Thumbnail" />
       </a>
     </td>
     <td width="60%">
